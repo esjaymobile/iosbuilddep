@@ -55,6 +55,17 @@ dependencies:
   uuid: ^4.2.1
   open_filex: ^4.3.2
 
+  device_info_plus: ^8.2.0
+  package_info_plus: ^3.1.0
+  open_settings: ^2.0.2
+  faker: ^2.1.0
+  url_launcher: ^6.1.10
+  focus_detector: ^2.0.1
+  pdf_render: ^1.4.0
+  flutter_cache_manager: ^3.3.0
+  permission_handler: ^10.4.3
+  async: ^2.10.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
